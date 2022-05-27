@@ -1,0 +1,178 @@
+{
+  "basics": {
+    "name": "Kaitlin Mannings",
+    "label": "Student",
+    "email": "kaitlin.chapman@me.com",
+    "phone": "000-000-0000",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for an M.S. in Cybersecurity in the Department of Satish & Yasmin Gupta College of Business at the University of Dallas. I expect to graduate in Summer, 2022.",
+    "location": {
+      "city": "Irving",
+      "countryCode": "USA",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "kaitlinmannings",
+        "url": "http://github.com/kaitlinmannings"
+      },
+      {
+        "network": "linkedin",
+        "username": "kaitlin-mannings",
+        "url": "https://www.linkedin.com/in/kaitlin-mannings-894457110/"
+      },
+      {
+        "network": "clippings.me",
+        "username": "kaitlinmannings",
+        "url": "https://www.clippings.me/users/kaitlinmannings"
+       }
+    ]
+  },
+  "interests": [
+    {
+      "name": "cybersecurity",
+      "keywords": [
+        "NIST Framework",
+        "cybersecurity law"
+      ]
+    },
+    {
+      "name": "blockchain",
+      "keywords": [
+        "NFTs"
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Agile",
+        "PowerShell",
+        "Common cybersecurity frameworks"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Kali",
+        "Git/GitHub"
+      ]
+      },
+      {
+      "name": "Other Skills",
+      "keywords": [
+         "Strong knowledge of information security (pen testing, TCP/IP)",
+         "Risk management",
+         "Knowledge in networking principles, IT operations & access controls",
+         "Solid analytical/problem-solving skills with capability to identify solutions to complex problems",
+         "Technical writing & Research",
+         "GitHub, MS Office Suite, Slack, Jira, Adobe Creative Suite (InDesign, Photoshop)",
+         "Azure Active Directory, PowerShell, Python, macOS, Microsoft OS, Linux OS, Windows Server, Wireshark",
+         "NIST Framework, FDA & USDA regulations",
+         "Familiarity with Scrum/Agile Methodologies", 
+         "Organization/Attention to detail",
+         "Excellent interpersonal and time management skills"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Dallas, Irving, TX",
+      "area": "Cybersecurity (expected Summer, 2022)",
+      "studyType": "M.S.",
+      "startDate": "2021-01",
+      "endDate": "Present",
+      "gpa": "3.94",
+      "courses": [
+        "Data Analysis for Decision Making",
+        "The Effective Leader",
+        "Foundations of Cybersecurity",
+        "Data Protection",
+        "Business and Society",
+        "Compliance and Legal Issues",
+        "Network Security",
+        "Operational Cybersecurity Management",
+        "Penetration Testing & Vulnerability",
+        "Digital Forensic",
+        "Strategic Cybersecurity Practicum"
+      ]
+    },
+    {
+      "institution": "University of Texas at San Antonio, San Antonio, TX",
+      "area": "Anthropology (2013)",
+      "studyType": "B.A.",
+      "startDate": "2009",
+      "endDate": "2013",
+    }
+  ],
+  "work": [
+    {
+      "company": "B. Catalani",
+      "position": "Business Analyst",
+      "startDate": "2021-06",
+      "endDate": "Present",
+      "summary": "Documentation specialist",
+      "highlights": [
+        "Project manage information security policies and procedures by implementing access controls based on job roles",
+        "Perform initial background research prior to startup of project assessing vendors and quality to present proper recommendations",
+        "Complete in-depth analysis for business-optimization projects, to include reporting tools, and auditing modernizations through paperless tracking of all documentation", 
+        "Project manage compliance for Global Food Safety (GFS) Audit where we scored 98 out of 100%": [
+            "Manage corrective actions completion to comply with GFSI requirements",
+            ],
+        "Write and update technical documentation that align with GFSI, USDA, and FDA requirements",
+        "Establish job aid for cybersecurity training and access control management",
+        "Establish and manage document versioning"
+        "Draft project documentation lifecycle for food safety audits and modernization project"
+      ]
+    },
+    {
+      "company": "N/A",
+      "position": "Stay at Home Parent",
+      "startDate": "2018-07",
+      "endDate": "2021-06",
+      "summary": "Gap in employment",
+    },
+    {
+      "company": "Freelance - Various Companies",
+      "position": "Communications Specialist",
+      "startDate": "2016-03",
+      "endDate": "2018-06",
+      "summary": "Marketing and Content Creation",
+      "highlights": [
+        "Develop operational improvement plans to resolve quality issues to improve product and process quality across the entire supply chain", 
+        "Develop training material and conduct user training as necessary",
+        "Assist in daily management and support of accounting system and other related systems",
+        "Accurate and timely processing of invoice generation and account reconciliation",
+        "Develop and execute social media presence through Facebook, Instagram, Google Ads, and blogging"
+      ]
+    },
+    {
+      "company": "TDIndustries",
+      "position": "Administrative Specialist",
+      "startDate": "2014-06",
+      "endDate": "2016-02",
+      "summary": "Perform administrative duties for the Project Management team",
+      "highlights": [
+         "Generate and maintain confidential files and reports",
+         "Analyze and effectively strategize regarding business goals, deadlines, schedules, budgets, needed resources, and team member coordination",
+         "Implement new staff training process",
+         "Schedule and facilitate monthly staff meetings to communicate productivity goals, take and provide feedback, and formulate strategic marketing planning"  
+      ]
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
